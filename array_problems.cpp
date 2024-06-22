@@ -17,7 +17,7 @@ int main(){
     }
     cout<<endl;
     vector<int> v;
-    v
+    v;
 
     
 
